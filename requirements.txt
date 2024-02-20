@@ -1,0 +1,8 @@
+llama-index
+llama-index-vector-stores-postgres
+openai
+python-dotenv
+docx2txt
+torch
+python-pptx
+transformers
